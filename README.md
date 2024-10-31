@@ -4,16 +4,16 @@
 A classic Arkanoid-style game built in Java. The game features multiple levels, score tracking, and end screens for both "Game Over" and "You Win" scenarios.
 
 ## Features
-Multiple Levels: Play through levels with unique layouts and increasing difficulty.
-Score Tracking: Track your score throughout the game, displayed at the end.
-End Screens: Clear all levels to see a "You Win" screen with your final score, or a "Game Over" screen if you lose.
-Pause Functionality: Pause the game anytime by pressing the P key.
+- Multiple Levels: Play through levels with unique layouts and increasing difficulty.
+- Score Tracking: Track your score throughout the game, displayed at the end.
+- End Screens: Clear all levels to see a "You Win" screen with your final score, or a "Game Over" screen if you lose.
+- Pause Functionality: Pause the game anytime by pressing the P key.
 ## Gameplay
 Level Progression:
 ### First Level - Alt text
 ### Second Level - Alt text
 ### Third Level - Alt text
-You Win Screen - Alt text
+### You Win Screen - Alt text
 
 ## How to Run
 Running the Game with Default Levels
