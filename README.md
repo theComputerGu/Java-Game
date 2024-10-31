@@ -25,6 +25,7 @@ Copy code
 java -jar ArkanoidGame.jar
 Running the Game with Specific Levels
 Specify levels by providing the level numbers as arguments:
+```
 
 ```sh
 Copy code
