@@ -20,26 +20,31 @@ Java Development Kit (JDK) 8 or higher
 Running the Game with Default Levels
 To start the game with the default three levels, run:
 
-bash
+```sh
 Copy code
 java -jar ArkanoidGame.jar
 Running the Game with Specific Levels
 Specify levels by providing the level numbers as arguments:
 
-bash
+```sh
 Copy code
 java -jar ArkanoidGame.jar 1 3 2
 This command runs the game with levels 1, 3, and 2 in that order. Invalid level numbers will be ignored.
+```
 
 ## Example Commands
 Run only level 3:
-bash
+```sh
 Copy code
 java -jar ArkanoidGame.jar 3
 Run levels 1, 2, and 3:
-bash
+```
+
+```sh
 Copy code
 java -jar ArkanoidGame.jar 1 2 3
+```
+
 ## Game Controls
 Left Arrow Key: Move the paddle to the left.
 Right Arrow Key: Move the paddle to the right.
