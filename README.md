@@ -49,6 +49,6 @@ java -jar ArkanoidGame.jar 1 2 3
 - P Key: Pause the game.
 - Q Key: Quit the game.
 ## code Structure
-Ass6Game: Main class that runs the game. Handles command line arguments and initializes levels.
-GameLevel: Manages the setup and execution of individual levels.
-KeyPressStoppableAnimation: Decorator class for key press events, stopping animations for pause, game over, and win screens.
+- Ass6Game: Main class that runs the game. Handles command line arguments and initializes levels.
+- GameLevel: Manages the setup and execution of individual levels.
+- KeyPressStoppableAnimation: Decorator class for key press events, stopping animations for pause, game over, and win screens.
