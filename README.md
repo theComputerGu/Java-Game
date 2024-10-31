@@ -1,6 +1,4 @@
 # Java-Game
-
-## Arkanoid Game
 A classic Arkanoid-style game built in Java. The game features multiple levels, score tracking, and end screens for both "Game Over" and "You Win" scenarios.
 
 ## Features
